@@ -23,8 +23,14 @@ This repository contains the project UI screenshots.
 ### Home Page
 <img src="home-page.png" width="300">
 
-### Home Page
-<img src="home-page.png" width="300">
+### Mood Page
+<p align="center">
+  <img src="great-page.png" width="160">
+  <img src="good-page.png" width="160">
+  <img src="okay-page.png" width="160">
+  <img src="notgood-page.png" width="160">
+  <img src="bad-page.png" width="160">
+</p>
 
 ### Home Page
 <img src="home-page.png" width="300">
