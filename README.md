@@ -2,9 +2,9 @@
 
 ## Overview
 MoodPixel is a mental health monitoring app UI project.  
-This repository contains the project UI screenshots.
+This repository contains the project UI Figma Design.
 
-## Project Screenshots
+## Project Figma Design
 
 ### Logo Page
 <img src="logo-page.png" width="300">
@@ -32,8 +32,15 @@ This repository contains the project UI screenshots.
   <img src="bad-page.png" width="160">
 </p>
 
-### Home Page
-<img src="home-page.png" width="300">
+### Calender Page
+<p align="center">
+  <img src="calender-page.png" height="320">
+  <img src="calender-details-page.png" height="320">
+  <img src="yearly-calender1-page.png" height="320">
+  <img src="yearly-calender2-page.png" height="320">
+  <img src="yearly-calender3-page.png" height="320">
+ 
+</p>
 
 ### Home Page
 <img src="home-page.png" width="300">
