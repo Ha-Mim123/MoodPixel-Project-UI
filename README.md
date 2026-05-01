@@ -6,8 +6,48 @@ This repository contains the project UI screenshots.
 
 ## Project Screenshots
 
+### Welcome Page
+<img src="welcome-page.png" width="300">
+
 ### Login Page
-![Login Page](login-page.png)
+<img src="login-page.png" width="300">
 
 ### Home Page
-![Home Page](home-page.png)
+<img src="home-page.png" width="300">
+
+### Home Page
+<img src="home-page.png" width="300">
+
+### Home Page
+<img src="home-page.png" width="300">
+
+### Home Page
+<img src="home-page.png" width="300">
+
+### Home Page
+<img src="home-page.png" width="300">
+
+### Home Page
+<img src="home-page.png" width="300">
+
+### Home Page
+<img src="home-page.png" width="300">
+
+### Home Page
+<img src="home-page.png" width="300">
+
+### Home Page
+<img src="home-page.png" width="300">
+
+### Home Page
+<img src="home-page.png" width="300">
+
+### Home Page
+<img src="home-page.png" width="300">
+
+### Home Page
+<img src="home-page.png" width="300">
+### Home Page
+<img src="home-page.png" width="300">
+### Home Page
+<img src="home-page.png" width="300">
